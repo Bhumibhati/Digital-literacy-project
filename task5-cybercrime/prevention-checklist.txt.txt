@@ -1,0 +1,39 @@
+============================================================
+           STAY SAFE ONLINE - PREVENTION CHECKLIST          
+============================================================
+
+[1] VERIFICATION OF LINKS
+    - Never click on suspicious links via WhatsApp or SMS.
+    - Always check if the URL starts with "https://".
+
+[2] UPI PIN SAFETY (FINANCIAL)
+    - IMPORTANT: UPI PIN is ONLY for sending money.
+    - If someone says "enter PIN to receive money," it's a SCAM.
+
+[3] UPI ID & QR CODES (FINANCIAL)
+    - Do not scan random QR codes sent by strangers.
+    - Scammers use fake codes to authorize illegal payments.
+
+[4] TWO-FACTOR AUTHENTICATION (2FA)
+    - Enable 2FA on Gmail, Instagram, and LinkedIn.
+    - Adds an extra layer of security beyond your password.
+
+[5] AVOID PUBLIC WI-FI
+    - Don't do banking on free Wi-Fi (Airports/Cafes).
+    - Hackers can easily intercept your data on open networks.
+
+[6] APP PERMISSIONS
+    - Always review what an app wants to access.
+    - A simple app should not need your Gallery or Contacts.
+
+[7] SOFTWARE UPDATES
+    - Keep your phone OS and Apps updated regularly.
+    - Updates contain critical "Security Patches".
+
+[8] OFFICIAL REPORTING CHANNELS (IMMEDIATE ACTION)
+    - National Cyber Crime Portal: https://cybercrime.gov.in
+    - National Helpline Number  : 1930
+
+============================================================
+         PREVENT | PROTECT | REPORT - STAY SAFE!           
+============================================================
