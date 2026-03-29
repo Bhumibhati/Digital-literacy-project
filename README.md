@@ -24,4 +24,4 @@ As a Student Digital Ambassador, this project allowed me to bridge the gap betwe
 **Networking:** - Realized that a clean digital footprint (LinkedIn/GitHub) acts as a continuous background check for future recruiters.  
 ## 🔗 Quick Links  
 **Digital Literacy Quiz (Google Form):** https://docs.google.com/forms/d/e/1FAIpQLSfRa1V6BIdnUnFjY4QWXnnrXv1fFLWNLx8ca2JH1ZvRffprDg/viewform?usp=publish-editor  
-**Professional LinkedIn Profile: https:**//www.linkedin.com/in/bhumi-bhati-b191b839b
+**Professional LinkedIn Profile:** https://www.linkedin.com/in/bhumi-bhati-b191b839b
